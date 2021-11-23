@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ola
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Analystis
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on Data Science Project
 - 📫 How to reach me @ olaniyanolamijuwon@gmail
