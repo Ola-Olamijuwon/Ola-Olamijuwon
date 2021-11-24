@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Ola
-- 👀 I’m interested in Data Analystis
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on Data Science Project
-- 📫 How to reach me @ olaniyanolamijuwon@gmail
+I’m interested a in Data Analystis
+I’m looking to collaborate on Data Science Projects (SQL, PowerBI and Excel)
+- 📫 Reach me http://linkedin.com/in/olamijuwon-olaniyan-72b14b221
 
 <!---
 Ola-Olamijuwon/Ola-Olamijuwon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
