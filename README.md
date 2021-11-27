@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Ola
-I’m interested a in Data Analystis
-I’m looking to collaborate on Data Science Projects (SQL, PowerBI and Excel)
+I’m Ola
+I’m interested a in Data Analystics. I'm skilled SQL, PowerBI and Excel.
 - 📫 Reach me http://linkedin.com/in/olamijuwon-olaniyan-72b14b221
 
 <!---
