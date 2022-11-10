@@ -5,7 +5,7 @@
 I’m Ola (Olaniyan Olamijuwon)
 
 I’m a Data Professional skilled in;
-Data Analysis, Visualization, Research & Data Entry  
+Data Analysis, Visualization, Research & Data Entry.
 
 Experienced in User Acquisition/Lead Generation for small to medium sized businesses.
 
