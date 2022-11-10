@@ -1,8 +1,13 @@
 #Welcome To My Github Page#
 
-👋 Hi there, I’m Ola (Olaniyan Olamijuwon)
+👋 Hi there, 
+
+I’m Ola (Olaniyan Olamijuwon)
+
 I’m a Data Professional skilled in;
+
 Data Analysis, Visualization, Research & Data Entry  
+
 Experienced in User Acquisition/Lead Generation for small to medium sized businesses.
 
 Tools Utilized;
