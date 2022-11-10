@@ -1,6 +1,18 @@
-I’m Ola
-I’m interested a in Data Analystics. I'm skilled SQL, PowerBI and Excel.
-- 📫 Reach me http://linkedin.com/in/olamijuwon-olaniyan-72b14b221
+*Welcome To My Github Page*
+👋 Hi there, I’m Ola (Olaniyan Olamijuwon)
+I’m a Data Professional skilled in;
+Data Analysis, Visualization, Research & Data Entry  
+Experienced in User Acquisition/Lead Generation for small to medium sized businesses.
+
+Tools Utilized;
+Spreadsheet (Excel & Google sheet)
+SQL
+Power Bi
+Google Analytics to get the job done.
+
+I'm ready to help improve your business or projects with my skills.
+
+Reach me http://linkedin.com/in/olamijuwon-olaniyan-72b14b221
 
 <!---
 Ola-Olamijuwon/Ola-Olamijuwon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
