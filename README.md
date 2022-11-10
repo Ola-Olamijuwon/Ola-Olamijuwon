@@ -2,9 +2,8 @@
 
 👋 Hi,
 - I’m Ola (Olaniyan Olamijuwon)
-- I’m a Data Professional skilled in;
-Data Analysis, Visualization, Research & Data Entry.
-- Experienced in User Acquisition/Lead Generation for small to medium sized businesses.
+- I’m a Data Professional skilled in; Data Analysis, Visualization, Research & Data Entry.
+- Experienced in User & Customer Acquisition for small to medium sized businesses.
 
 Tools Utilized;
 - Spreadsheet (Excel & Google sheet)
@@ -12,11 +11,12 @@ Tools Utilized;
 - Power Bi
 - Google Analytics
 
-I'm ready to help improve your business or projects with my skills.
+Ready to  improve your business and projects with my skills.
 
 Reach me;
-http://linkedin.com/in/olamijuwon-olaniyan-72b14b221
-https://twitter.com/ola_olamijuwon
+
+- Linkedin: http://linkedin.com/in/olamijuwon-olaniyan-72b14b221
+- Twitter: https://twitter.com/ola_olamijuwon
 
 <!---
 Ola-Olamijuwon/Ola-Olamijuwon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
