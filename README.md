@@ -15,7 +15,7 @@ Ready to  improve your business and projects with my skills.
 
 Reach me;
 
-- Linkedin: http://linkedin.com/in/olamijuwon-olaniyan-72b14b221
+- Linkedin: http://linkedin.com/in/olamijuwon-olaniyan
 - Twitter: https://twitter.com/ola_olamijuwon
 
 <!---
