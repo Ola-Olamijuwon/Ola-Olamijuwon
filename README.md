@@ -2,8 +2,8 @@
 
 ## 👋🏾 Hi,
 - I’m Ola (Olaniyan Olamijuwon)
-- I’m a Data Professional skilled in; Data Analysis, Visualization, Research & Data Entry.
-- Experienced in User & Customer Acquisition for small to medium sized businesses.
+- A Data Professional skilled in; Data Analysis, Visualization, Research & Data Entry.
+- Experienced in User & Customer Acquisition for small to medium size businesses.
 
 ## 💻Tools Utilized;
 - Spreadsheet (Excel & Google sheet)
