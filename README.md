@@ -13,8 +13,7 @@ Tools Utilized;
 
 Ready to  improve your business and projects with my skills.
 
-Reach me;
-
+##📩Reach me;
 - [Linkedin](http://linkedin.com/in/olamijuwon-olaniyan)
 - [Twitter](https://twitter.com/ola_olamijuwon)
 
