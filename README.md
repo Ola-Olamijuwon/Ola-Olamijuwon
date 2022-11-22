@@ -13,7 +13,7 @@
 
 Ready to  improve your business and projects with my skills.
 
-## Lets Connect 📩: [(https://user-images.githubusercontent.com/94787744/203268511-2321c10f-4943-4456-8039-f8794280e554.png)](http://linkedin.com/in/olamijuwon-olaniyan), [Twitter](https://twitter.com/ola_olamijuwon)
+## Lets Connect 📩: [LinkedIn](http://linkedin.com/in/olamijuwon-olaniyan), [Twitter](https://twitter.com/ola_olamijuwon)
 
 <!---
 Ola-Olamijuwon/Ola-Olamijuwon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
